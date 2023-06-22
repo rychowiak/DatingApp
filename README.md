@@ -15,4 +15,23 @@ For this course i will be using:
  - C#
 
 ## Section 2 - Implementation of basic API functionalities
- - Getting to know the basics of using dotnet command line interface
+- Getting to know the basics of using dotnet command line interface
+- Entity Framework Features:
+   * Querying
+     - Allows us to query database using linked queries.
+   * Change Tracking
+     - Keeps track of changes made in our entities which need to be submitted to the DB.
+   * Saving
+     - Allows us to save the DB and EF will execute insert, update and delete commands to the DB.
+   * Concurrency
+     - Protect overwriting changes made by another user.
+   * Transactions
+     - Provides automatic transaction management whilst querying or saving data.
+   * Caching
+     - Includes first level caching, repeated querying will return data from the cache instead of hitting the DB
+   * Built-in conventions
+     - Follows conventions and includes a set of default rules which automatically configure EF schema or the model that we use to create our DB.
+   * Configurations
+     - Provides ways to configure our entities so that we can override the conventions optionally.
+   * Migrations
+     - Gives us an ability to create a DB schema so that when we start our application, we can automatically generate our DB in our database server.
