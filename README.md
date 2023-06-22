@@ -14,9 +14,7 @@ For this course i will be using:
  - TypeScript
  - C#
 
-## Section 2 - Implementation of basic API functionalities
-- Getting to know the basics of using dotnet command line interface
-- Entity Framework Features:
+  Entity Framework Features:
    * Querying
      - Allows us to query database using linked queries.
    * Change Tracking
@@ -35,3 +33,7 @@ For this course i will be using:
      - Provides ways to configure our entities so that we can override the conventions optionally.
    * Migrations
      - Gives us an ability to create a DB schema so that when we start our application, we can automatically generate our DB in our database server.
+
+## Section 2 - Implementation of basic API functionalities
+- Getting to know the basics of using dotnet command line interface
+
