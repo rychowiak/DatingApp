@@ -36,4 +36,5 @@ For this course i will be using:
 
 ## Section 2 - Implementation of basic API functionalities
 - Getting to know the basics of using dotnet command line interface
+- Adding Entity Framework to the project
 
