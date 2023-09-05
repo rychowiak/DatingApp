@@ -16,7 +16,7 @@ namespace API.Controllers
     }
 
     [HttpGet] // API endpoint
-    public async  Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
+    public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
     {
       return await _context.Users.ToListAsync();
     }
