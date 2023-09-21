@@ -38,3 +38,9 @@ For this course i will be using:
 - Getting to know the basics of using dotnet command line interface
 - Adding Entity Framework to the project
 
+## Section 3 - Implementation of walking skeleton
+- Getting familiar with Angular CLI (How to create new Angular app)
+- Understanding of the Angular bootstrap process
+- Using the angular HTTP Client Service
+- Running Angular app over HTTPS
+- How to add packages using NPM
