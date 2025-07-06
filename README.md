@@ -28,6 +28,7 @@ For this course i will be using:
 ## Section 2 - Implementation of basic API functionalities
 - Getting to know the basics of using dotnet command line interface
 - Adding Entity Framework to the project
+- Creating Entity class (Entity classes relates to tables in a DB)
 
 ## Section 3 - Implementation of walking skeleton
 - Getting familiar with Angular CLI (How to create new Angular app)
